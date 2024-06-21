@@ -1,0 +1,9 @@
+@font-face {
+    font-family: '02587_ARIALMT';
+    src: url('fonts/02587_ARIALMT.eot');
+    src: url('fonts/02587_ARIALMT.eot') format('embedded-opentype'),
+         url('fonts/02587_ARIALMT.woff2') format('woff2'),
+         url('fonts/02587_ARIALMT.woff') format('woff'),
+         url('fonts/02587_ARIALMT.ttf') format('truetype'),
+         url('fonts/02587_ARIALMT.svg#02587_ARIALMT') format('svg');
+}

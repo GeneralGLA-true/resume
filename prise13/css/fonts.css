@@ -1,0 +1,31 @@
+@import url('https://fonts.cdnfonts.com/css/arial-mt');
+@font-face {
+    font-family: 'Arial-ItalicMT';
+    src: url('../fonts/Arial-Italic/arial-italicmt-webfont.eot');
+    src: url('../fonts/Arial-Italic/arial-italicmt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Arial-Italic/arial-italicmt-webfont.woff2') format('woff2'),
+         url('../fonts/Arial-Italic/arial-italicmt-webfont.woff') format('woff'),
+         url('../fonts/Arial-Italic/arial-italicmt-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ArialMT';
+    src: url('../fonts/ArialMT/ArialMT.eot');
+    src: url('../fonts/ArialMT/ArialMT.eot') format('embedded-opentype'),
+         url('../fonts/ArialMT/ArialMT.woff2') format('woff2'),
+         url('../fonts/ArialMT/ArialMT.woff') format('woff'),
+         url('../fonts/ArialMT/ArialMT.ttf') format('truetype'),
+}
+@font-face {
+    font-family: 'myriad_pro';
+    src: url('../fonts/MyriadPro/myriadpro-blackcond-webfont.eot');
+    src: url('../fonts/MyriadPro/myriadpro-blackcond-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/MyriadPro/myriadpro-blackcond-webfont.woff2') format('woff2'),
+         url('../fonts/MyriadPro/myriadpro-blackcond-webfont.woff') format('woff'),
+         url('../fonts/MyriadPro/myriadpro-blackcond-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
