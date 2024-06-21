@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&display=swap');  /* font-family: 'Open Sans', sans-serif; */
+@font-face {
+    font-family: 'good_times';
+    src: url('../fonts/good_times_rg/good_times_rg-webfont-GoodTimesRg.eot');
+    src: url('../fonts/good_times_rg/good_times_rg-webfont-GoodTimesRg.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/good_times_rg/good_times_rg-webfont-GoodTimesRg.woff2') format('woff2'),
+         url('../fonts/good_times_rg/good_times_rg-webfont-GoodTimesRg.woff') format('woff'),
+         url('../fonts/good_times_rg/good_times_rg-webfont-GoodTimesRg.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
