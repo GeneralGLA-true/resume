@@ -1,0 +1,243 @@
+.bg_green {
+    background: #023A15;
+    color: #FFFFFF; 
+}
+.wraper {
+    width: 1296px;
+    margin: 0 auto;
+}
+.flex {
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+}
+.header {
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px 0 40px;
+}
+.head_menu li {
+    margin: 0 16px;
+}
+.head_menu a {
+    display: inline-block;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 1.6;
+    color: #FFFFFF;
+    text-decoration: none; 
+}
+.top {
+    padding: 55px 0 55px 0;
+}
+.width50 {
+    width: 50%;
+    box-sizing: border-box;
+}
+h1 {
+    font-weight: 900;
+    font-size: 110px;
+    line-height: 110px;
+    letter-spacing: 2px;
+}
+.pink_color {
+    color: #F09C96;
+}
+.white_btn {
+    width: 185px;
+    background: #FFFFFF;
+    border-radius: 4px;
+    margin: 40px 0 0;
+    padding: 14px 16px 14px 50px;
+    display: block;
+    text-align: center;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #023A15;
+    text-decoration: none;
+    position: relative;
+    box-sizing: border-box;
+}
+.white_btn::before {
+    content: '';
+    background: url('../images/btn_logo.png');
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    top: 14px;
+    left: 16px;
+}
+p {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.08;
+    margin: 40px 0 0;
+}
+.rel {
+    position: relative;
+}
+.cripples {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.top_img {
+    width: 322px;
+}
+.mini {
+    position: absolute;
+    top: -25px;
+    left: -25px;
+}
+.top_left {
+    padding: 10px 0px 0px 100px;
+}
+.top_img+.top_img {
+    align-self: flex-end;
+    margin: -12px -10px 0 0;
+}
+.col {
+    flex-direction: column;
+}
+
+
+
+.second .wraper {
+    padding: 128px 0 0 0;
+}
+h2 {
+    font-weight: 900;
+    font-size: 64px;
+    line-height: 1.31;
+    letter-spacing: 2px;
+    color: #000000;
+}
+.second p{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #000000;
+    margin: 33px 0 0 0;
+    width: 460px;
+}
+.man_bike {
+    margin-top: 127px;
+}
+.right_box {
+    align-self: center;
+    padding: 0 0 0 25px;
+}
+.right_box>div {
+    text-align: center;
+}
+.left_box {
+    padding: 0 43px 0 0;
+}
+.girl_drink {
+    margin-top: -40px;
+}
+
+.third {
+    margin-top: -65px;
+    padding: 180px 0 0;
+}
+.third .wraper {
+    width: 811px;
+    margin: 0 auto; 
+    text-align: center;
+    box-sizing: border-box;
+}
+.bg_pink {
+    background: #FFE6E2;
+}
+.third h2 {
+    font-weight: 900;
+    font-size: 61px;
+    line-height: 1.26;
+    margin: 0 auto;
+    letter-spacing: 3px;
+    color: #000000;
+    width: 777px;
+    text-align: center;
+}
+.third p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #000000;
+    margin: 41px auto 79px;
+    width: 578px;
+    text-align: center;
+}
+.centr_img {
+    position: relative;
+    z-index: 5;
+}
+
+
+h3 {
+    font-weight: 900;
+    font-size: 53px;
+    line-height: 1.36;
+    letter-spacing: 2px;
+    color: #000000;
+    width: 360px;
+    text-align: left;
+    margin: 40px 0 0 45px;
+}
+.fourth {
+    background: #FFFFFF;
+    margin-top: -180px;
+    padding-top: 186px;
+}
+
+.fourth .flex {
+    justify-content: space-between;
+}
+.rew {
+    flex-direction: row-reverse;
+}
+.fourth p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #000000;
+    width: 390px;
+    margin: 40px 0 0 45px;
+    text-align: left;
+}
+.right_box>.flex {
+    flex-direction: column;
+}
+
+.footer {
+    padding: 119px 0 32px 0;
+}
+.footer .wraperr {
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+   
+}
+.foot_box h2 {
+    font-weight: 900;
+    font-size: 106px;
+    line-height: 1.04;
+    text-align: center;
+    letter-spacing: 2px;
+    color: #FFFFFF;
+}
+.footer .white_btn {
+    margin: 41px auto 0;
+}
+.priv {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 150px 0 0;
+    display: block;
+}
+
